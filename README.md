@@ -43,6 +43,7 @@ Scatter Plot – Population in 1960 vs 2023
 Area Chart – Top 5 countries’ population trends over time
 
 🛠️ Tools & Technologies Used
+
 Language: Python
 
 Libraries: Pandas, Matplotlib, Seaborn, NumPy
