@@ -19,11 +19,13 @@ Build a strong portfolio
 Deepen my knowledge in data science and analytics
 
 📁 Files Included
+
 Prodigy_Infotech_Task_1.ipynb – Jupyter notebook with complete code, analysis, and visualizations
 
 World Population Data.csv – Total population dataset sourced from the World Bank
 
 📊 Visualizations Performed
+
 Bar Chart – Top 10 countries by total population
 
 Line Plot – India’s population growth (2015–2023)
